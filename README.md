@@ -1,6 +1,6 @@
 
 
-### Olá, Eu sou o Samuel Araujo Santos👋
+### Olá, Eu sou o Samuel 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smkaraujo/) 
 
